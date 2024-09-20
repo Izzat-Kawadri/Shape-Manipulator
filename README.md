@@ -96,10 +96,7 @@ This project contains the following key files and folders:
   - **Scripts/**: Contains the C# scripts that handle shape creation, transformations (rotate, scale, translate), and UI interactions.
   - **Prefabs/**: Stores prefabricated objects (shapes like Circle, Cube, Triangle, etc.) used in the main scene.
   
-- **ProjectSettings/**: Unity-generated settings files for project configuration.
-  
-- **Packages/**: Contains package manifest and dependency details required by Unity to manage the project.
-  
+--- 
 
 ## Installation and Usage
 
@@ -127,11 +124,12 @@ To create an executable version of the project:
   2. Select your target platform (e.g., PC, Mac, Linux, or WebGL).
   3.  Click Build and choose a directory to save the build.
 
+--- 
 
 ## Download
 You can download the build of the app for Windows and Linux platforms from the links below:
 
-- [Download for Windows (EXE)](link_to_windows_build)  
+- [Download for Windows ](./Shape_Manipulator.zip)  
 
 
 ## Running the Executable:
