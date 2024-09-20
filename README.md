@@ -1,5 +1,7 @@
 # Shape-Manipulator
 
+![Shape-Manipulator](./Screenshots/ShapeManipulator.png)
+
 This project is a computer graphics assignment implemented using Unity3D. It allows users to draw, manipulate (rotate, scale, translate), and interact with various 2D and 3D shapes. The project consists of two main scenes and provides both keyboard input and button-based interactions for a seamless user experience.
 
 ## Features
@@ -39,16 +41,47 @@ This project is a computer graphics assignment implemented using Unity3D. It all
 - **Unity3D** : Used to implement the project, manage the scenes, and handle user inputs.
 - **C#**: Programming language used for scripting in Unity.
 
-## Screenshots
+## Screenshots :
 Here are some screenshots of the app in action:
 
 ### Load Scene
-![Load Scene](link_to_load_scene_screenshot)
+![Load Scene](./Screenshots/Screenshot1.png)
 
 ### Main Scene
-![Main Scene](link_to_main_scene_screenshot)
+![Main Scene](./Screenshots/Screenshot2.png)
+
+### Main Scene After Pressed `1` `2` `3`
+![Main Scene](./Screenshots/Screenshot3.png)
+
+### Main Scene After Pressed `1` `2` `3` `4` `5` `6`
+![Main Scene](./Screenshots/Screenshot4.png)
 
 
+### Main Scene After Pressed `Right Click` on the **Triangle** 
+then Change the Color of the **Triangle** to Red Color.
+![Main Scene](./Screenshots/Screenshot5.png)
+
+
+### Main Scene After Pressed `Left Click` on the **3D Cube**
+it Shows the Position of The **3D Cube** in 3D space .
+![Main Scene](./Screenshots/Screenshot6.png)
+
+
+### Main Scene After Pressed `T`
+it Translate the Position of The Shapes by 10 on the X Axis in 3D space .
+![Main Scene](./Screenshots/Screenshot7.png)
+
+
+### Main Scene After Pressed `S`
+it Scales The Shapes in 3D space .
+![Main Scene](./Screenshots/Screenshot8.png)
+
+
+### Main Scene After Pressed `R`
+it Rotates The Shapes in 3D space .
+![Main Scene](./Screenshots/Screenshot9.png)
+
+---
 
 ## Project Structure
 This project contains the following key files and folders:
@@ -62,7 +95,6 @@ This project contains the following key files and folders:
   
 - **Packages/**: Contains package manifest and dependency details required by Unity to manage the project.
   
-- **Library/**: Unity-generated folder containing cached data. This folder is excluded in the `.gitignore` file and does not need to be uploaded to GitHub.
 
 ## Installation and Usage
 
