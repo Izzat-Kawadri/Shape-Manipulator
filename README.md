@@ -29,7 +29,7 @@ This project is a computer graphics assignment implemented using Unity3D. It all
 #### Additional Features:
 - **Left-click** on any shape to display its position in 3D space.
 - **Click on any shape** to bring up a list of **color buttons** (circular buttons) that allow you to change the color of the selected shape.
-- **Press 'N'** to take a screenshot of the current scene.
+- **Press 'i'** to take a screenshot of the current scene.
 
 #### Additional Buttons:
 - **Back Button**: Returns to the Load Scene.
