@@ -129,7 +129,7 @@ To create an executable version of the project:
 ## Download
 You can download the build of the app for Windows and Linux platforms from the links below:
 
-- [Download for Windows ](./Shape_Manipulator.zip)  
+- [Download for Windows ](./Shape%20Manipulator.zip)  
 
 
 ## Running the Executable:
